@@ -6,7 +6,7 @@ Project Description : This app deals with the development of an android-based mu
 Functionalities Description : Quiztion is an Android based application where user sign up using a unique username, once they sign up, they can access all the quiztion features like edit their profile, change password, view their performance history, access to help and about sections as well. The user has four categories of quizzes to choose from, which contains more sub-categories to choose from. At the end of the quiz, user can view scores, check their answers and see the correct answers as well. The performance history is displayed in form of progress bars for interactive display.  
 
 Team Members : 
-Mansi Koul 
+Mansi Koul,
 Adarsh Sodagudi
 
 Deliverable Items :
@@ -18,7 +18,7 @@ I.	User Registration
 II.	Username change
 III.	Password change
 IV.	Profile changes
-	V.	Setting changes page
+V.	Setting changes page
 
 C. Admin Account:
 I.	Adding Quiz
